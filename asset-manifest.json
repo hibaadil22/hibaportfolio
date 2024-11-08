@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hiba_portfolio/static/css/main.26cb6df0.css",
+    "main.js": "/hiba_portfolio/static/js/main.eacf0949.js",
+    "static/js/453.5057f621.chunk.js": "/hiba_portfolio/static/js/453.5057f621.chunk.js",
+    "index.html": "/hiba_portfolio/index.html",
+    "main.26cb6df0.css.map": "/hiba_portfolio/static/css/main.26cb6df0.css.map",
+    "main.eacf0949.js.map": "/hiba_portfolio/static/js/main.eacf0949.js.map",
+    "453.5057f621.chunk.js.map": "/hiba_portfolio/static/js/453.5057f621.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26cb6df0.css",
+    "static/js/main.eacf0949.js"
+  ]
+}
